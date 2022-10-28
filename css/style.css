@@ -1,6 +1,6 @@
 /* Общие стили. Каркас
   ========================================================================== */
-
+@import './edit-form.js';
 @font-face {
   font-family: "Open Sans";
   src: url("../fonts/OpenSansCondensed-Bold.woff2") format("woff2"),
